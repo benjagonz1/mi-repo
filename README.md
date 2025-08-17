@@ -1,1 +1,1 @@
-# mi-repo
+## Nueva funcionalidad: botón de registro
